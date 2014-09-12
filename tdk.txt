@@ -1,0 +1,38 @@
+void IO_Set(void){
+}
+
+void PWM_set(void){
+count = 0;
+}
+
+void jump set(void){
+}
+
+void color set (void){
+	if  xxxxx :
+	Brown = 1 ;
+	else if  xxxxx :
+		grean = 1 ;
+	else if  xxxxx :
+		yellow = 1 ;
+	else if  xxxxx :
+		green2 = 1 ;
+	else if  xxxxx :
+		biue = 1 ;
+	else if  xxxxx :
+		grey = 1 ;
+	else 
+		全部輸出為零
+void main(void){
+	IO_set();
+    PWM_set();
+	while(;;){
+		
+		(巡軌)
+		if 偵測到點的數目(偵測紅點):
+			count++;
+		else if (偵測到點的數目):
+			(對應動作)
+		
+	}
+}
